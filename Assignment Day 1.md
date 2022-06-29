@@ -1,7 +1,8 @@
 **1. Explain the use of JavaScript ( or What you can do using a JavaScript)**
    
-    Javascript is to used to build a dynamic and intractive websites and webapplications, java script is the clientside programing language 
-    but now days we can use the server side also useing the node js to build the backend applications.
+    Javascript is to used to build a dynamic and intractive websites and webapplications, java script is the clientside 
+    programing language but now days we can use the server side also useing the node js to build the backend
+    applications.
    
 **2. What is the difference between client-side and server-side?**
 
