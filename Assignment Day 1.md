@@ -5,7 +5,8 @@
    
 **2. What is the difference between client-side and server-side?**
 
-     Client-side => Client-side means that the processing takes place on the user's computer. It requires browsers to run the scripts on that
+     Client-side => Client-side means that the processing takes place on the user's computer. It requires browsers 
+     to run the scripts on that
      Client machine without involving any processing on the server.
      Server-side => Server-side means that the processing takes place on a web server.
 
